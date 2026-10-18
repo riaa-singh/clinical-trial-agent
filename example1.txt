@@ -1,0 +1,36 @@
+  [tool] search_trials({'condition': 'chronic kidney disease', 'status': 'RECRUITING', 'max_results': 10})
+  [tool] summarize_eligibility({'nct_id': 'NCT03929900'})
+  [tool] summarize_eligibility({'nct_id': 'NCT07535320'})
+  [tool] summarize_eligibility({'nct_id': 'NCT06802978'})
+  [tool] summarize_eligibility({'nct_id': 'NCT07511283'})
+  [tool] summarize_eligibility({'nct_id': 'NCT06873880'})
+I found five recruiting CKD-focused trials and pulled their eligibility criteria. The search also returned some unrelated or transplant-focused trials, which I left out.
+
+**1. KNOW-CKD Cohort, Phase II (NCT03929900)**
+- **Age:** 45–79 years, any sex
+- **Include:** eGFR 20–60 mL/min/1.73m² (CKD-EPI creatinine), not on dialysis
+- **Exclude:** ADPKD; unable to consent; prior chronic dialysis; prior organ transplant; NYHA class 3–4 heart failure; Child-Pugh class 2–3 cirrhosis; pregnancy; single kidney from trauma or donation; immunosuppressants within the past year; glomerulonephritis on kidney biopsy
+
+**2. Patient preferences in dialysis treatment choice, discrete choice experiment (NCT07535320)**
+- **Age:** 18+, any sex
+- **Include:** Adults with advanced CKD receiving pre-dialysis information; enrolled in a French social security program; able to read French and complete the questionnaire
+- **Exclude:** Minors; switching between dialysis modalities; needing urgent dialysis; can't read or understand French; under legal protection (guardianship, curatorship, or judicial protection)
+
+**3. Lipid profile in diabetic and non-diabetic CKD (NCT06802978)**
+- **Age:** Over 20 years, any sex
+- **Include:** CKD patients presenting to Sohag University Hospital; consent given
+- **Exclude:** Age 20 or under; taking lipid-lowering drugs; kidney transplant recipients
+
+**4. Calciphylaxis in CKD, Danish study (NCT07511283)**
+- **Age:** 18+, any sex; healthy volunteers accepted as a reference group
+- **Cases:** CKD with suspected or newly diagnosed calciphylaxis (agreed by the treating specialists); able to consent
+- **Controls:** CKD without calciphylaxis; able to consent
+- **Healthy reference group:** Self-reported healthy adults. Excluded if under 60 with eGFR below 60, or if 60+ with eGFR below the age-adjusted 95% CI (Danish Society of Nephrology reference ranges)
+- **Exclude:** Cases whose calciphylaxis diagnosis is later ruled out; controls who develop calciphylaxis
+
+**5. BIA and eGFR for nutritional status in hemodialysis (NCT06873880)**
+- **Age:** 18+, any sex
+- **Include:** CKD on hemodialysis for at least 6 months
+- **Exclude:** Pregnancy or lactation; a major second pathology; pacemaker; recent surgery
+
+If you want a narrower set, such as a particular drug class, phase 3 trials only, or CKD in diabetes, I can search again with those filters.

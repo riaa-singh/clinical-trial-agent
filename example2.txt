@@ -1,0 +1,10 @@
+  [tool] search_trials({'condition': 'type 2 diabetes', 'phase': 'PHASE3', 'status': 'RECRUITING'})
+I found 5 phase 3 trials for type 2 diabetes that are currently recruiting:
+
+1. **NCT06361238**: Liraglutide in Preventing Delirium in Diabetic Elderly After Cardiac Surgery
+2. **NCT07060456**: Efficacy and Safety of HRS9531 in Participants With Type 2 Diabetes Treated With Basal Insulin
+3. **NCT07776509**: A Study to Evaluate Effect of AZD6234 as an Adjunct to Incretin-based Therapies in Adults With Obesity or Overweight, With or Without Type 2 Diabetes
+4. **NCT05427084**: Canagliflozin Targeting Vascular Inflammation (listed as phase 2/phase 3)
+5. **NCT06989697**: Cilostazol-Ginkgo for Cognitive Function in Elderly Diabetes
+
+I can pull full details (enrollment, sponsor, summary) or eligibility criteria for any of these.
